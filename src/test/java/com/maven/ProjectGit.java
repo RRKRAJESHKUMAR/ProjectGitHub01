@@ -31,21 +31,15 @@ public class ProjectGit {
 		// TODO Auto-generated method stub
 
 	}
-	
-	private void methodA() {
+
+	private void methodNew() {
 		// TODO Auto-generated method stub
 
 	}
 	
-	private void methodB() {
+	private void methodOld() {
 		// TODO Auto-generated method stub
 
 	}
-	
-	private void methodC() {
-		// TODO Auto-generated method stub
-
-	}
-	
 	
 }
